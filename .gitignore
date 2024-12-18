@@ -1,0 +1,7 @@
+/venv
+/logs/*
+/output/basic/*
+/output/forward_checking/*
+
+.DS_Store
+*.pyc
